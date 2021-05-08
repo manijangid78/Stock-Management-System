@@ -12,3 +12,4 @@ Sell-service is other **RESTApi**, that manages the sell of the stocks and creat
 ### Branch 4. [Eureka_server](https://github.com/manijangid78/STM-Front-End/tree/eureka-server)
 **Eureka server** containes the details of all the microservices. Every service is register with eureka server and then server will hold infromation of the application. Eureka server also known as **Discovery server**. 
 
+[video](https://github.com/manijangid78/Stock-Management-System/blob/videoimages/stm.mp4)
