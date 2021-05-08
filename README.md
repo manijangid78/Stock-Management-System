@@ -1,7 +1,7 @@
 # Stock Management System 
 System is design with **Microservice** architecture where **Front-End** is design with **NodeJs Framework** and **Back-end** design with **Spring Framework**. All projects are added with one repository with different branches.
 
-### Branch 1. [Front-end](https://github.com/manijangid78/STM-Front-End/new/front-end)
+### Branch 1. [Front-end](https://github.com/manijangid78/STM-Front-End/tree/front-end)
 Client-side view is managed with **NodeJs framework**. View is design with **HTML, CSS and JavaScript**. Through nodejs data is fetched via **RESTApi's** in json format and used that data to view client side.
 
 ### Branch 2. [Database-Service](https://github.com/manijangid78/STM-Front-End/tree/database-service)
