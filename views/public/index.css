@@ -1,0 +1,61 @@
+.container{
+    padding-top: 3%;
+}
+
+table{
+    margin-top: 5%;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+}
+
+h1{
+    padding-top: 3%;
+    text-align: center;
+    width: 100%;
+}
+
+h2{
+    padding: 1% 1% 1% 0%;
+}
+
+.tab{
+    height: 500px;
+}
+
+.roles{
+    text-align: right;
+}
+
+.product{
+    text-align: left;
+}
+
+button{
+    text-align: center;
+}
+
+.roll{
+    padding: 2%;
+    text-align: center;
+}
+
+.fix-me{
+    position: fixed;
+    top:300px;
+}
+
+.button img{
+    width: 24px;
+    height: 24px;
+}
+
+.button{
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 2px 5px;
+    border: 1px;
+}
