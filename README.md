@@ -12,4 +12,10 @@ Sell-service is other **RESTApi**, that manages the sell of the stocks and creat
 ### Branch 4. [Eureka_server](https://github.com/manijangid78/STM-Front-End/tree/eureka-server)
 **Eureka server** containes the details of all the microservices. Every service is register with eureka server and then server will hold infromation of the application. Eureka server also known as **Discovery server**. 
 
-[video](https://github.com/manijangid78/Stock-Management-System/blob/videoimages/stm.mp4)
+## Project Video  
+A Demo video is added that helps to understand the whole project.
+![video](https://github.com/manijangid78/Stock-Management-System/blob/videoimages/stm.gif)
+
+1. When user add the row material(Stock) then a request goes to database service. This request contains row material details and this details stored in the database and return true.
+2. When user add the product then a request goes to database service with product details. That details are stored in the database and return true. 
+3. When user search all the row material/product then a request goes for get all row material/product. And database service returns all raw material/product details and using nodejs it will view to the client side.
